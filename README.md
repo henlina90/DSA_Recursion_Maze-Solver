@@ -1,4 +1,4 @@
-# Searching and Sorting: Recursion Drills - Maze
+# DSA Searching and Sorting: Recursion Drills - Maze Solver
 
 In this challenge you will solve a problems using recursion. The objective is to practice using recursion to think about and solve problems. You do not have to worry about the efficiency of your solutions.
 
